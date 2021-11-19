@@ -4,7 +4,6 @@ from torch import nn
 from torch.nn import init
 import torch.optim as optim
 
-
 import torch.utils.data as Data
 
 #生成数据
